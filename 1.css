@@ -1,0 +1,8 @@
+caption{
+    font-size: 35px;
+    text-align: left;
+}
+
+td,th{
+    border-bottom: 2px solid yellow;
+}
